@@ -1,0 +1,92 @@
+.wrapper {
+    width: 40%;
+    height: 80%;
+    margin: auto;
+    background-color: white;
+    border: 2px solid black;
+    box-shadow: 10px 10px 5px #888888;
+    text-align: center;
+   
+}
+
+
+p{
+    font-family:sans-serif;
+}
+.menustart{
+  text-decoration: none;
+  position:center;
+  font-family:sans-serif; 
+  color: #1B1C15 !important;
+  font-size: 25px;
+  padding: 35px 35px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  background: #A1A4BF;
+  background: linear-gradient(top,  #DDE9EB,  #6E6E6E);
+  background: -ms-linear-gradient(top,  #DDE9EB,  #6E6E6E);
+  background: -webkit-gradient(linear, left top, left bottom, from(#DDE9EB), to(#6E6E6E));
+  background: -moz-linear-gradient(top,  #DDE9EB,  #6E6E6E);
+}
+button:hover {
+  color: #000103 !important;
+  background: #CECCCF;
+}
+
+footer{
+    background-color: dimgrey;
+    font-family:arial;
+    color:dimgrey;
+    margin-bottom: 0px;
+}
+
+
+---aarhus---
+#sogefelt {
+    position:absolute;
+    bottom: 150px;
+    left:50px;
+    width: 10%;
+}
+
+.kundeservice {
+ display: inline-block;
+
+}
+
+.menu{
+    display: inline-block;
+}
+   
+
+/*Header*/
+
+#header{
+    background-color: #666;
+    background-size: width:100%;height:12%;
+    font-family: arial;
+    color: dimgrey;
+    margin-bottom: inherit;
+}
+
+h2{
+    width:50px;
+    float:left; 
+    color: black;
+    margin-left:7%;
+}
+
+#footer {
+    background-color: #666;
+    width:100%;
+    height:20%;
+    font-family: arial;
+    color: dimgrey;
+    margin-bottom: inherit;
+    
+}
+
+#overting{
+    font-size:150%;
+}
